@@ -1,16 +1,22 @@
-### Hi there 👋
+<div>
+  <h2>
+    Web Developer/Engineer
+  </h2>
+  <p>
+    <strong>Specialized in(but not restricted to) the following:</strong>
+    <ol>
+      <li>Kubernetes(Certified Kubernetes Administrator)</li>
+      <li>Java(Spring-boot)</li>
+      <li>Python(ML with pytorch, tensorflow)</li>
+      <li>C++(OpenMP, Cuda)</li>
+    </ol>
+    <strong>Interested in the following topics:</strong>
+    <ol>
+      <li>Backend Web Development</li>
+      <li>Optimizing via multithreading and Cuda</li>
+      <li>Cloud based service development</li>
+      <li>Cloud infrastructure(Management and application)</li>
+    </ol>
+  </p>
+</div>
 
-<!--
-**flaxinger/flaxinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
