@@ -13,7 +13,7 @@
     <strong>Interested in the following topics:</strong>
     <ol>
       <li>Backend Web Development</li>
-      <li>Optimizing via multithreading and Cuda</li>
+      <li>Optimizing via multicore processing and Cuda</li>
       <li>Cloud based service development</li>
       <li>Cloud infrastructure(Management and application)</li>
     </ol>
