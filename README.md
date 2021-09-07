@@ -17,7 +17,10 @@
     <li>Optimizing via multicore processing and Cuda</li>
     <li>Cloud based service development</li>
     <li>Cloud infrastructure(Management and application)</li>
-    <li>Natural Language Processing(Prediction based on online text data)</li>
+    <li>Natural Language Processing(Prediction based on online text data)</p>
+        Typically stock price prediction
+    </li>
+    
   </ol>
 </div>
 
