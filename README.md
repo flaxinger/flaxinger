@@ -20,7 +20,7 @@
     <li>Natural Language Processing(Prediction based on online text data)
       <ol>
         <li>Typically stock price prediction and semantic analysis of public opinion</li>
-        <li>Models with experience: LSTM, RNN, Auto-encoder</li>
+        <li>Relevant models with experience: LSTM, RNN, Auto-encoder</li>
       </ol>
     </li>
     
