@@ -1,3 +1,4 @@
+
 <div>
   <h2>
     Web Developer/Engineer(<del><a href="https://flaxinger.github.io/">More About Me</a></del>)
@@ -26,4 +27,5 @@
     
   </ol>
 </div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaxinger)](https://github.com/anuraghazra/github-readme-stats)
