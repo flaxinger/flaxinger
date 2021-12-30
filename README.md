@@ -29,5 +29,11 @@
   </ol>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaxinger)](https://github.com/anuraghazra/github-readme-stats)
+## :green_book: GitHub Stats
 
+[![flaxinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaxinger)](https://github.com/anuraghazra/github-readme-stats)
+
+[![flaxinger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaxinger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## :bulb: Algorithm
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=flaxinger)](https://solved.ac/flaxinger)
