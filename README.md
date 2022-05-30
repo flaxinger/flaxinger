@@ -9,7 +9,7 @@
   </p>
   <ol>
     <li>Kubernetes(Certified Kubernetes Administrator)</li>
-    <li>Java(Spring-boot)</li>
+    <li>Java(Spring-boot, Spring-Cloud)</li>
     <li>Python(ML with pytorch, tensorflow)</li>
     <li>C++(OpenMP, Cuda)</li>
   </ol>
